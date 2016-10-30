@@ -1,3 +1,5 @@
+# Train Scheduling
+
 The simulation tool takes the information on running times of trains as an input and simulates multiple train movements on a chosen section of the network. It is used to obtain the running time of trains given the characteristics of the train and the track using basic Newtonian laws and 4 aspect signalling rules. The second element of the simulation tools is to attempt to replicate the real world movement of trains (simulate it on the computer). This can be used for “what-if” analyses. Typically these are micro level simulations where in a certain sector of the network is modeled in detail. Trains are then simulated to run over this sector creating a model of the real world.
 
 The software system would allow the user to create new time table scenarios and analyze differences across scenarios. It will identify the conflicts that arise as a result of the introduction of a new train along a new path. It will provide a method for resolving these conflicts to create a feasible path.
